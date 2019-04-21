@@ -1,0 +1,16 @@
+body{font-family:Lucida Console;font-size:10px;}
+main{width:100%;max-width:1024px;margin:0 auto;}
+.w50{width:50%}
+.w33{width:33.33%;}
+.left{float:left;}
+.right{float:right;}
+.nume h1{font-weight:bold;font-size:26px;text-align:center;}
+.logo img{border:1px solid #ccc;padding:7px;border-radius:15px;}
+.clear{clear:both;float:none;}
+h2{color:#00BFFF}
+ul{list-style:none;font-family:Tahoma;font-size:16px}
+ul li{padding:5px;border-bottom:1px dotted #ccc;}
+
+.flex{display:flex;flex-direction:row;justify-content:space-around;align-items:center;align-content:center;}
+.aligncenter{text-align:center}
+.draggable{width:128px;height:128px;border:1px solid #ccc;}
